@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GUIstuff\UserInterface.cs">
+    <Files>
+      <File FileName="Assets\GUIstuff\LayerBlocks\VarUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\GUIstuff\LayerBlocks\Connector.cs" Line="67" Column="6" />
+      <File FileName="Assets\LayerSystem\Layer.cs" Line="385" Column="3" />
+      <File FileName="Assets\GUIstuff\LayerEditor.cs" Line="57" Column="3" />
+      <File FileName="Assets\sequencer\MainTrack.cs" Line="200" Column="5" />
+      <File FileName="Assets\GUIstuff\UserInterface.cs" Line="76" Column="36" />
+      <File FileName="Assets\GUIstuff\UserInterfaceNewUI.cs" Line="7" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
